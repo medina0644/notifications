@@ -1,6 +1,6 @@
-6
+7
 |||
-TV GUIDE IS UNDER MAINTENANCE, SORRY FOR INCONVENIENCE!
+TV GUIDE IS BACK!!!! VADER STREAMS BUILD VERSION 1.6 WILL BE RELEASED SOON.
 
 SETUP: Click on MY ADDONS, move cursor over VADER STREAMS then long press or press "c" on keyboard then wait for pop-up. After pop-up appears click add-on settings and enter your login details. SHUTDOWN KODI WHEN COMPLETE AND RESTART KODI.
 
